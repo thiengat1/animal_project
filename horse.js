@@ -2,8 +2,10 @@
  * @Description:
  * @Author: Lewis
  * @Date: 2023-03-15 22:50:40
- * @LastEditTime: 2023-03-15 22:51:17
+ * @LastEditTime: 2023-03-15 23:08:45
  * @LastEditors: Lewis
  */
-function horse() {}
+function horse() {
+  //
+}
 module.export = horse;
